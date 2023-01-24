@@ -29,12 +29,9 @@ and to adapt to all kinds of environments.</h4>
       <a href="mailto:pvalgarn@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="pablo" height="30"/></a>
-    </p>
-  <p align="center">
       <a href="https://www.pablovalderas.com" target="blank"><img align="center"
-         src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="pablo" height="30"/></a>
-      <br>
     </p>
   </samp>
 </div>
