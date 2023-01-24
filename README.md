@@ -30,7 +30,7 @@ and to adapt to all kinds of environments.</h4>
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="pablo" height="30"/></a>
       <a href="https://www.pablovalderas.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/website-3C8263.svg?style=for-the-badge&logo=web&logoColor=white"
+         src="https://img.shields.io/badge/website-3C8263.svg?style=for-the-badge&logo=website&logoColor=white"
          alt="pablo" height="30"/></a>
     </p>
   </samp>
