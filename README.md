@@ -20,7 +20,7 @@ and to adapt to all kinds of environments.</h4>
   <summary>☎️ Contact Me</summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">You Can Reach Me By:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/pvalgarn/" target="blank"><img align="center"
