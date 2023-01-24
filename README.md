@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Pablo Valderas</h1>
 <h4 align="center">
-a Web Application Developer and Administrator
+Web Application Developer and Administrator
 Information Systems with passion for their profession and
 excellent organizational skills. my interests go
 more focused on cybersecurity.
