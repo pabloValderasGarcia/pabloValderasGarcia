@@ -10,9 +10,8 @@ and to adapt to all kinds of environments.</h4>
 </div>
 
 <div align="center">
-  <a href="https://github.com/pabloValderasGarcia">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+       alt="snake" />
 </div>
 
 -----
