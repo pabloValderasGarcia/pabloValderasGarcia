@@ -17,7 +17,7 @@ and to adapt to all kinds of environments.</h4>
 
 -----
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact Me</summary>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
