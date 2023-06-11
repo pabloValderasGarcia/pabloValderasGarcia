@@ -3,8 +3,8 @@
 <h4 align="center">
 Web Application Developer and Administrator
 Information Systems with passion for their profession and
-excellent organizational skills. my interests go
-more focused on cybersecurity.
+excellent organizational skills. My interests go
+more focused on videogames developing.
 I consider that I have no difficulty working in a team
 and to adapt to all kinds of environments.</h4>
 </div>
