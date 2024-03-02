@@ -1,12 +1,7 @@
 <div align="center">
 <h1 align="center">Hi 👋 I'm Pablo Valderas</h1>
 <h4 align="center">
-Web Application Developer and Administrator
-Information Systems with passion for their profession and
-excellent organizational skills. My interests go
-more focused on videogames developing.
-I consider that I have no difficulty working in a team
-and to adapt to all kinds of environments.</h4>
+Web Applications and Artificial Intelligence & Big Data Developer with passion for my profession and excellent organizational skills. I consider that I have no difficulty working in a team and to adapt to all kinds of environments.</h4>
 </div>
 
 <div align="center">
