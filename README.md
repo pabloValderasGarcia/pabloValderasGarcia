@@ -22,8 +22,8 @@ Web Applications and Artificial Intelligence & Big Data Developer with passion f
          alt="pablo" height="30"/></a>
       <a href="mailto:pvalgarn@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="pablo" height="30"/></a>
-      <a href="https://www.pablovalderas.com" target="blank"><img align="center"
+         alt="pablo" height="31"/></a>
+      <a href="https://www.pablovalderas.me" target="blank"><img align="center"
          src="https://img.shields.io/badge/website-3C8263.svg?style=for-the-badge&logo=rss&logoColor=white"
          alt="pablo" height="30"/></a>
     </p>
