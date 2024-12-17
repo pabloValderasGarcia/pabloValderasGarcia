@@ -5,7 +5,7 @@ Web Applications and Artificial Intelligence & Big Data Developer with passion f
 </div>
 
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/raw/readme/resources/img/grid-snake.svg"
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
        alt="snake" />
 </div>
 
