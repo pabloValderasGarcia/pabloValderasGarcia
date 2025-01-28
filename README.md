@@ -9,12 +9,7 @@ Web Applications and Artificial Intelligence & Big Data Developer with passion f
        alt="snake" />
 </div>
 
------
-<details>
-  <summary>☎️ Contact Me</summary>
 <div>
-  <samp>
-    <h2 align="center">You Can Reach Me By:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/pvalgarn/" target="_blank"><img align="center"
@@ -27,6 +22,4 @@ Web Applications and Artificial Intelligence & Big Data Developer with passion f
          src="https://img.shields.io/badge/website-3C8263.svg?style=for-the-badge&logo=rss&logoColor=white"
          alt="pablo" height="30"/></a>
     </p>
-  </samp>
 </div>
-</details>
