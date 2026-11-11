@@ -1,0 +1,27 @@
+{
+  "as_of": "2026-11-11T00:11:55Z",
+  "source": "yahoo",
+  "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
+  "prices": {
+    "GOOGL": 287.38,
+    "AAPL": 348.51,
+    "DAL": 92.2
+  },
+  "detail": {
+    "GOOGL": {
+      "prev_close": 288.15,
+      "time": "2026-11-10T21:00:00Z",
+      "source": "yahoo"
+    },
+    "AAPL": {
+      "prev_close": 350.69,
+      "time": "2026-11-10T21:00:00Z",
+      "source": "yahoo"
+    },
+    "DAL": {
+      "prev_close": 91.8,
+      "time": "2026-11-10T21:00:02Z",
+      "source": "yahoo"
+    }
+  }
+}

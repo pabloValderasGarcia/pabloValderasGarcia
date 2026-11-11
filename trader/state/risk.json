@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-10",
+  "paper": true,
+  "results": [
+    {
+      "index": 1,
+      "symbol": "GOOGL",
+      "side": "buy",
+      "amount": "$5.50",
+      "value_usd": 5.5,
+      "fingerprint": "eaeedc3cf79674fb",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 2,
+      "symbol": "AAPL",
+      "side": "buy",
+      "amount": "$3.30",
+      "value_usd": 3.3,
+      "fingerprint": "5ba07e4cf17cd3eb",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 3,
+      "symbol": "DAL",
+      "side": "buy",
+      "amount": "$2.20",
+      "value_usd": 2.2,
+      "fingerprint": "424ad5bcfa386521",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    }
+  ],
+  "pass": 3,
+  "block": 0,
+  "warnings": [],
+  "cash_after": 0.0,
+  "checked_at": "2026-11-10T23:55:28",
+  "orders_file": "trader/orders.json"
+}

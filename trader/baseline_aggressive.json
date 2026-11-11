@@ -1,0 +1,21 @@
+{
+ "created": "2026-11-11",
+ "note": "Aggressive paper plan, $11, close 2026-11-10",
+ "positions": {
+  "MU": {
+   "usd": 4.4,
+   "price": 725.11
+  },
+  "AVGO": {
+   "usd": 3.3,
+   "price": 331.98
+  },
+  "NVDA": {
+   "usd": 3.3,
+   "price": 168.89
+  }
+ },
+ "benchmark": {
+  "SPY": 749.92
+ }
+}

@@ -1,0 +1,154 @@
+{
+  "name": "Crecimiento alto y rentable",
+  "rules": [
+    {
+      "metric": "revenue_growth_yoy",
+      "op": ">=",
+      "value": 15
+    },
+    {
+      "metric": "eps_ttm",
+      "op": ">",
+      "value": 0
+    }
+  ],
+  "rank": [
+    {
+      "metric": "revenue_growth_yoy",
+      "order": "desc",
+      "weight": 2
+    },
+    {
+      "metric": "net_margin",
+      "order": "desc",
+      "weight": 1
+    }
+  ],
+  "prices_as_of": "2026-11-11T00:03:47Z",
+  "passed": [
+    {
+      "ticker": "MU",
+      "name": "MICRON TECHNOLOGY INC",
+      "score": 1.0,
+      "why": [
+        "revenue_growth_yoy 379.3 >= 15",
+        "eps_ttm 74.33 > 0"
+      ],
+      "skipped": []
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA CORP",
+      "score": 0.875,
+      "why": [
+        "revenue_growth_yoy 105.9 >= 15",
+        "eps_ttm 7.91 > 0"
+      ],
+      "skipped": []
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir Technologies Inc.",
+      "score": 0.75,
+      "why": [
+        "revenue_growth_yoy 95.9 >= 15",
+        "eps_ttm 1.43 > 0"
+      ],
+      "skipped": []
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "score": 0.625,
+      "why": [
+        "revenue_growth_yoy 85.5 >= 15",
+        "eps_ttm 7.84 > 0"
+      ],
+      "skipped": []
+    },
+    {
+      "ticker": "AMD",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "score": 0.417,
+      "why": [
+        "revenue_growth_yoy 44.7 >= 15",
+        "eps_ttm 4.6 > 0"
+      ],
+      "skipped": []
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "score": 0.292,
+      "why": [
+        "revenue_growth_yoy 24.7 >= 15",
+        "eps_ttm 19.16 > 0"
+      ],
+      "skipped": []
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "score": 0.292,
+      "why": [
+        "revenue_growth_yoy 26.1 >= 15",
+        "eps_ttm 29.32 > 0"
+      ],
+      "skipped": []
+    },
+    {
+      "ticker": "MSFT",
+      "name": "MICROSOFT CORP",
+      "score": 0.167,
+      "why": [
+        "revenue_growth_yoy 18.8 >= 15",
+        "eps_ttm 19.15 > 0"
+      ],
+      "skipped": []
+    },
+    {
+      "ticker": "DAL",
+      "name": "DELTA AIR LINES, INC.",
+      "score": 0.083,
+      "why": [
+        "revenue_growth_yoy 21.1 >= 15",
+        "eps_ttm 5 > 0"
+      ],
+      "skipped": []
+    }
+  ],
+  "failed": [
+    {
+      "ticker": "AAPL",
+      "why": [
+        "revenue_growth_yoy 11.7, needs >= 15"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "why": [
+        "revenue_growth_yoy 12.1, needs >= 15"
+      ]
+    },
+    {
+      "ticker": "DHI",
+      "why": [
+        "revenue_growth_yoy 0, needs >= 15"
+      ]
+    },
+    {
+      "ticker": "M",
+      "why": [
+        "revenue_growth_yoy 1.1, needs >= 15"
+      ]
+    },
+    {
+      "ticker": "LEN",
+      "why": [
+        "revenue_growth_yoy -8.7, needs >= 15",
+        "eps_ttm is missing"
+      ]
+    }
+  ],
+  "note": "A filter on reported numbers, not a recommendation."
+}

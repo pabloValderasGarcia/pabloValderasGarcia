@@ -1,0 +1,50 @@
+{
+  "rules": [
+    {
+      "id": "googl-stop",
+      "symbol": "GOOGL",
+      "type": "stop",
+      "price": 244.27,
+      "note": "stop -15% desde 287.38"
+    },
+    {
+      "id": "googl-target",
+      "symbol": "GOOGL",
+      "type": "above",
+      "price": 344.86,
+      "note": "objetivo +20%"
+    },
+    {
+      "id": "aapl-stop",
+      "symbol": "AAPL",
+      "type": "stop",
+      "price": 296.23,
+      "note": "stop -15% desde 348.51"
+    },
+    {
+      "id": "aapl-target",
+      "symbol": "AAPL",
+      "type": "above",
+      "price": 418.21,
+      "note": "objetivo +20%"
+    },
+    {
+      "id": "dal-stop",
+      "symbol": "DAL",
+      "type": "stop",
+      "price": 78.37,
+      "note": "stop -15% desde 92.20"
+    },
+    {
+      "id": "dal-target",
+      "symbol": "DAL",
+      "type": "above",
+      "price": 110.64,
+      "note": "objetivo +20%"
+    },
+    {
+      "id": "bell",
+      "type": "opening_bell"
+    }
+  ]
+}

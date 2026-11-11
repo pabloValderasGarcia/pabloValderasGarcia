@@ -1,0 +1,6 @@
+{
+  "created": "2026-11-11",
+  "note": "Paper trade baseline. Prices = delayed close 2026-11-10 (Yahoo). Budget $11. Compare vs SPY.",
+  "positions": {"GOOGL": {"usd": 5.50, "price": 287.38}, "AAPL": {"usd": 3.30, "price": 348.51}, "DAL": {"usd": 2.20, "price": 92.20}},
+  "benchmark": {"SPY": 749.92}
+}

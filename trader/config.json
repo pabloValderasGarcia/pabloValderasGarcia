@@ -1,0 +1,15 @@
+{
+  "budget": 11,
+  "cash_buffer_pct": 0,
+  "max_position_pct": 50,
+  "max_order_usd": 11,
+  "min_order_usd": 1,
+  "max_orders_per_day": 5,
+  "fractional": true,
+  "broker": "alpaca",
+  "paper": true,
+  "blocked": [],
+  "allow_options": false,
+  "allow_margin": false,
+  "allow_short": false
+}
